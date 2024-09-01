@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.program1;
+
+/**
+ *
+ * @author lorettashepherd
+ */
+public class Program1 {
+
+    public static void main(String[] args) {
+        System.out.println("LLLL           JJJJJJJJJJJJJJJJ     SSSSSSSSSS");
+        System.out.println("LLLL           JJJJJJJJJJJJJJJJ     SSSSSSSSSS");
+        System.out.println("LLLL                JJJJJJ          SSSSS");
+        System.out.println("LLLL                JJJJJJ          SSSSS");
+        System.out.println("LLLL                JJJJJJ          SSSSSSSSS");
+        System.out.println("LLLL                JJJJJJ          SSSSSSSSS");
+        System.out.println("LLLL                JJJJJJ              SSSSS");
+        System.out.println("LLLL         JJJ    JJJJJJ              SSSSS");
+        System.out.println("LLLLLLLLLL   JJJ    JJJJJJ          SSSSSSSSS");
+        System.out.println("LLLLLLLLLL   JJJJJJJJJJJJJ          SSSSSSSSS");
+    }
+}
